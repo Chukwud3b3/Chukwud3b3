@@ -1,12 +1,47 @@
 <h1>Hi, I'm Victor! <br/><a href="https://www.linkedin.com/in/victor-ogueri-onyeukwu-564769160/">Cybersecurity, Networking and DevOps Professional</a>
 
+<h2>👨‍💻Certifications:</h2>
+
+•	Certified Information Systems Security Professional (CISSP)
+
+•	CompTIA Cybersecurity Analyst certified (CompTIA CySA)
+
+•	Fortinet Certified Cybersecurity Associate
+
+•	Fortinet FortiGate 7.4 Operator
+
+•	Juniper Networks Certified Associate, Junos (JNCIA-Junos)
+
+•	Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+
+•	Microsoft Certified: Security Operations Analyst Associate (SC-200)
+
+•	Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+•	Microsoft Certified: Azure Fundamentals (AZ-900)
+
+•	Cybersecurity Essentials, International Cybersecurity Institute
+
+•	AWS Certified Cloud Practitioner (CLF-C01)  
+
+•	Cisco certified Networking Associate: Routing and Switching (CCNA) [expired].
+
+•	Cisco certified Introduction to Cybersecurity
+
+•	HashiCorp Certified: Terraform Associate
+
+
+
 <h2>👨‍💻Projects:</h2>
 
 - <b>Intro to Quantum Computing/Programming</b>
   - [Quantum learning with Python, Qiskit](https://github.com/Chukwud3b3/quantumlearning)
 
 
+<h2>👨‍💻Other Resources:</h2>
 
+- <b>Professional Google drive</b>
+  - [Shared ](https://github.com/Chukwud3b3/quantumlearning)
 
 <!---
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -36,9 +71,11 @@
 --->
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VictorOgueri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VictorOgueri | Credly" width="22px" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" />][Credly]
 
 [linkedin]: https://www.linkedin.com/in/victor-ogueri-onyeukwu-564769160/
+[Credly]: https://www.credly.com/users/victor-ogueri-onyeukwu.efbfb711
 
 
 
