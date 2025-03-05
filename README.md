@@ -4,6 +4,8 @@
 
 •	Certified Information Systems Security Professional (CISSP)
 
+•	EC-Council Certified DevSecOps Engineer (in view)
+
 •	CompTIA Cybersecurity Analyst certified (CompTIA CySA)
 
 •	Fortinet Certified Cybersecurity Associate
