@@ -1,5 +1,18 @@
 <h1>Hi, I'm Victor! <br/><a href="https://www.linkedin.com/in/victor-ogueri-onyeukwu-564769160/">Cyber Security, Network Engineering and DevSecOps Professional</a>
 
+# <a>Victor</a>'s Portfolio 💻 📂 💭
+
+I am passionate about solving complex security challenges and leading initiatives that strengthen enterprise security postures against evolving cyber threats. With a strong foundation in network and cybersecurity engineering, I bring a versatile skill set that seamlessly integrates security operations, cloud security, and infrastructure defense to safeguard digital environments.
+
+Holding an MSc in Cybersecurity and industry-recognized certifications such as CISSP, Microsoft SC-200, AZ-104, and Fortinet certifications, I have a deep understanding of threat detection, incident response, and security architecture. My experience spans designing and securing multi-cloud environments (Azure, AWS, GCP), implementing IAM and SSO solutions, and optimizing network security through technologies like Fortinet, Juniper, and F5.
+
+In my previous roles, I enhance security operations by conducting risk assessments, automating security processes, and implementing advanced monitoring solutions to detect and mitigate threats proactively. Leveraging SIEM tools, cloud-native security controls, and automation frameworks like Terraform, I ensure organizations maintain a resilient and compliant security posture.
+
+I thrive in collaborative environments, working closely with cross-functional teams to align security strategies with business goals. Whether leading security projects, streamlining incident response workflows, or deploying cutting-edge defenses, I am committed to driving impactful security improvements.
+
+Let’s connect to discuss how my expertise can help secure and optimize your organization's cybersecurity landscape.
+
+
 <h2>👨‍💻Certifications:</h2>
 
 •	Certified Information Systems Security Professional (CISSP)
