@@ -55,6 +55,8 @@ Let’s connect to discuss how my expertise can help secure and optimize your or
 
 <h2>👨‍💻Other Resources:</h2>
 
+- <b>Repos</b>
+  - [Shared ](https://github.com/Chukwud3b3?tab=repositories)
 - <b>Professional Google drive</b>
   - [Shared ](https://github.com/Chukwud3b3/quantumlearning)
 
