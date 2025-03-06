@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/><a href="https://www.linkedin.com/in/victor-ogueri-onyeukwu-564769160/">Cyber Security, Networking and DevSecOps Professional</a>
+<h1>Hi, I'm Victor! <br/><a href="https://www.linkedin.com/in/victor-ogueri-onyeukwu-564769160/">Cyber Security, Network Engineering and DevSecOps Professional</a>
 
 <h2>👨‍💻Certifications:</h2>
 
